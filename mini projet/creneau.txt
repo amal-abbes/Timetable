@@ -1,0 +1,4 @@
+28 1 2019 math 8 30 11 30 tango momo e_tour 2 cours
+28 1 2019 fr 13 30 16 30 rahmouni wafa e_tour 2 cours
+29 1 2019 math 8 30 11 30 tango momo e_tour 2 cours
+29 1 2019 fr 13 30 16 30 rahmouni wafa e_tour 2 cours
